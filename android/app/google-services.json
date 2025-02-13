@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092729476993",
+    "project_id": "construction-fca2e",
+    "storage_bucket": "construction-fca2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092729476993:android:b7299880d9cbe5a9a47a80",
+        "android_client_info": {
+          "package_name": "com.pratice2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyP0pquLK1fwFFXCz3ExPydWMPGspvvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
